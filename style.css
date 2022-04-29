@@ -1,0 +1,41 @@
+/* Color para body */
+body {background-color: rgb(149, 204, 204);}
+
+p { font-family: 'Roboto', sans-serif;
+    color: floralwhite;
+    font-size: 25px;
+}
+
+    /* Por clase */
+    .rojo {
+        /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+        color: rgb(153, 101, 101);
+        
+    }
+    #especial {
+        color: rgb(153, 241, 118);
+        font-size: 20px;
+        font-weight: lighter;
+        
+    }
+    .violet {color: violet;
+        background-color: aqua;
+        
+    }
+       
+  img {
+      width: 300px;
+    }
+
+
+     a {
+          /* font-family: fantasy; */
+         color: springgreen;
+         font-size: 25px;
+        
+        
+
+     }
+     ol{color: rgb(22, 47, 100);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
