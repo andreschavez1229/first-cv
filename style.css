@@ -1,41 +1,31 @@
-/* Color para body */
-body {background-color: rgb(149, 204, 204);}
+#Titulos {
+    background-color: rgb(235, 179, 179);
+    text-align: center;
+    text-decoration: lightseagreen;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
-p { font-family: 'Roboto', sans-serif;
-    color: floralwhite;
-    font-size: 25px;
+
 }
 
-    /* Por clase */
-    .rojo {
-        /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
-        color: rgb(153, 101, 101);
-        
-    }
-    #especial {
-        color: rgb(153, 241, 118);
-        font-size: 20px;
-        font-weight: lighter;
-        
-    }
-    .violet {color: violet;
-        background-color: aqua;
-        
-    }
-       
-  img {
-      width: 300px;
-    }
+#Parrafo {
+    background-color: rgb(136, 236, 236);
+    font-size: 25px;
+    font-family: cursive;
+    text-align: center;
 
+}
 
-     a {
-          /* font-family: fantasy; */
-         color: springgreen;
-         font-size: 25px;
-        
-        
+#Lista {
+    font-style: inherit;
+    background-color: rgb(226, 224, 195);
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
 
-     }
-     ol{color: rgb(22, 47, 100);
-        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    }
+}
+
+#Foot {
+    font-style: italic;
+    text-align: center;
+    font-size: large;
+}
